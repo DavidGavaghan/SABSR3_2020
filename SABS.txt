@@ -1,1 +1,1 @@
-This is the first attempt at using Git during the SABS course with an edit.
+This is the first attempt at using Git during the SABS course with an edit and a secod edit.
